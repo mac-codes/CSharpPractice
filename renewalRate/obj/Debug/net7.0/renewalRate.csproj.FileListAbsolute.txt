@@ -1,0 +1,15 @@
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/obj/Debug/net7.0/renewalRate.csproj.AssemblyReference.cache
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/obj/Debug/net7.0/renewalRate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/obj/Debug/net7.0/renewalRate.AssemblyInfoInputs.cache
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/obj/Debug/net7.0/renewalRate.AssemblyInfo.cs
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/obj/Debug/net7.0/renewalRate.csproj.CoreCompileInputs.cache
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/bin/Debug/net7.0/renewalRate
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/bin/Debug/net7.0/renewalRate.deps.json
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/bin/Debug/net7.0/renewalRate.runtimeconfig.json
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/bin/Debug/net7.0/renewalRate.dll
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/bin/Debug/net7.0/renewalRate.pdb
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/obj/Debug/net7.0/renewalRate.dll
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/obj/Debug/net7.0/refint/renewalRate.dll
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/obj/Debug/net7.0/renewalRate.pdb
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/obj/Debug/net7.0/renewalRate.genruntimeconfig.cache
+/Users/mckennalawson/Desktop/CsharpProjects/renewalRate/obj/Debug/net7.0/ref/renewalRate.dll
