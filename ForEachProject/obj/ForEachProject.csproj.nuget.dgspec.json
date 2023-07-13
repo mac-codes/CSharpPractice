@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/arrayProjects.csproj": {}
+    "/Users/mckennalawson/Desktop/CSharpPractice/ForEachProject/ForEachProject.csproj": {}
   },
   "projects": {
-    "/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/arrayProjects.csproj": {
+    "/Users/mckennalawson/Desktop/CSharpPractice/ForEachProject/ForEachProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/arrayProjects.csproj",
-        "projectName": "arrayProjects",
-        "projectPath": "/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/arrayProjects.csproj",
+        "projectUniqueName": "/Users/mckennalawson/Desktop/CSharpPractice/ForEachProject/ForEachProject.csproj",
+        "projectName": "ForEachProject",
+        "projectPath": "/Users/mckennalawson/Desktop/CSharpPractice/ForEachProject/ForEachProject.csproj",
         "packagesPath": "/Users/mckennalawson/.nuget/packages/",
-        "outputPath": "/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/obj/",
+        "outputPath": "/Users/mckennalawson/Desktop/CSharpPractice/ForEachProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mckennalawson/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/bin/Debug/net7.0/arrayProjects
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/bin/Debug/net7.0/arrayProjects.deps.json
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/bin/Debug/net7.0/arrayProjects.runtimeconfig.json
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/bin/Debug/net7.0/arrayProjects.dll
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/bin/Debug/net7.0/arrayProjects.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/obj/Debug/net7.0/arrayProjects.csproj.AssemblyReference.cache
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/obj/Debug/net7.0/arrayProjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/obj/Debug/net7.0/arrayProjects.AssemblyInfoInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/obj/Debug/net7.0/arrayProjects.AssemblyInfo.cs
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/obj/Debug/net7.0/arrayProjects.csproj.CoreCompileInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/obj/Debug/net7.0/arrayProjects.dll
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/obj/Debug/net7.0/refint/arrayProjects.dll
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/obj/Debug/net7.0/arrayProjects.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/obj/Debug/net7.0/arrayProjects.genruntimeconfig.cache
+/Users/mckennalawson/Desktop/CSharpPractice/arrayProjects/obj/Debug/net7.0/ref/arrayProjects.dll
