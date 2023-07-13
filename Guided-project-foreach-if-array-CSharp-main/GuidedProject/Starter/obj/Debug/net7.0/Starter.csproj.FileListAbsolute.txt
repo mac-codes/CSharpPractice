@@ -1,0 +1,15 @@
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.deps.json
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.dll
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.csproj.AssemblyReference.cache
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.dll
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/refint/Starter.dll
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/ref/Starter.dll
