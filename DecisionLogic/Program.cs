@@ -1,4 +1,5 @@
-﻿Random dice = new Random();
+﻿// Create a new random object to simulate dice rolling
+Random dice = new Random();
 
 int roll1 = dice.Next(1, 7);
 int roll2 = dice.Next(1, 7);

@@ -153,3 +153,17 @@ foreach (var item in collection)
 * It automatically handles the iteration process, eliminating the need for an explicit index or managing the loop control variables.
 * The `var` keyword is used to implicitly type the loop variable `item`, allowing it to adapt to the type of elements in the collection.
 * You can perform any desired operations on each element within the loop block.
+
+## Code Blocks
+A code block is one or more C# statements that define an execution path. the statements outside of the code block affect when, if, and how often that block of code is executed at run time. 
+* **Scope**: when you define a varibale inside of a code block, its visibility is local to that code block and inaccesible outside of the code block
+* To make a variable visible inside and outside of a code block, you must define the variable outside of the code block.
+* Do not forget to initialize any variables whose value is set in a code block, such as an `if` statement.
+
+## Code Readability
+When implimenting an `if` statement that includes a single-statement code block:
+* Never use single-line form
+* If you realize you have only one line of code listed within the code blocks of an **if-elseif-else** statement, you can remove the curly braces of the code block and white space. 
+* Only remove the curly braces of a code block when it makes the code more readable. It's always acceptable to include curly braces.
+* Only remove the line feed if it makes the code more readable. Microsoft suggests that your code will be more readable when each statement is placed on its own code line.
+ 

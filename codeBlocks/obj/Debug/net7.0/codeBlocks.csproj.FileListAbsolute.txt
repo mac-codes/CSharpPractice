@@ -1,0 +1,15 @@
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/bin/Debug/net7.0/codeBlocks
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/bin/Debug/net7.0/codeBlocks.deps.json
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/bin/Debug/net7.0/codeBlocks.runtimeconfig.json
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/bin/Debug/net7.0/codeBlocks.dll
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/bin/Debug/net7.0/codeBlocks.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/obj/Debug/net7.0/codeBlocks.csproj.AssemblyReference.cache
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/obj/Debug/net7.0/codeBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/obj/Debug/net7.0/codeBlocks.AssemblyInfoInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/obj/Debug/net7.0/codeBlocks.AssemblyInfo.cs
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/obj/Debug/net7.0/codeBlocks.csproj.CoreCompileInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/obj/Debug/net7.0/codeBlocks.dll
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/obj/Debug/net7.0/refint/codeBlocks.dll
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/obj/Debug/net7.0/codeBlocks.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/obj/Debug/net7.0/codeBlocks.genruntimeconfig.cache
+/Users/mckennalawson/Desktop/CSharpPractice/codeBlocks/obj/Debug/net7.0/ref/codeBlocks.dll
