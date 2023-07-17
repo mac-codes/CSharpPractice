@@ -99,12 +99,57 @@ You can access individual elements of an array using square brackets and the ind
 ### Array Length
 > in length = numbers.Length
 Arrays are a powerful tool for storing and manipulating collections of data in a structured manner. They are widely used in programming to handle lists, matrices, and more.
+## If
+The `if` statement allows you to specify a condition and execute a block of code only if the condition evaluates to true.
 
+```csharp
+if (condition)
+{
+    // Code to be executed if the condition is true
+}
+```
+* The condition is a boolean expression that determines whether the code block should be executed.
+* If the condition evaluates to true, the code block is executed; otherwise, it is skipped.
+* You can use comparison operators (e.g., `==`, `!=`, `<`, `>`) and logical operators (e.g., `&&`, `||`) to build complex conditions.
+* It's important to ensure that the condition inside the `if` statement evaluates to a boolean value (`true` or `false`).
+
+## If Else
+The `if-else` statement is an extension of the `if` statement that allows you to specify an alternative block of code to execute when the condition is false.
+``` csharp
+if (condition)
+{
+    // Code to be executed if the condition is true
+}
+else
+{
+    // Code to be executed if the condition is false
+}
+```
+* The `else` block is optional and provides an alternative code path when the condition in the if statement evaluates to false.
+* If the condition is true, the code block inside the `if` statement is executed; otherwise, the code block inside the `else` statement is executed.
+* You can nest multiple `if-else` statements to handle more complex conditions and alternative scenarios.
+
+## For
+The `for` loop is used for iterative execution of code. It allows you to specify an initialization, a condition, and an iterator, and repeatedly execute a block of code until the condition becomes false.
+```csharp
+for (initialization; condition; iterator)
+{
+    // Code to be executed in each iteration
+}
+```
+* The `for` loop provides a more controlled and structured way to iterate over a range of values or perform a specific number of iterations.
+* The `initialization` step is executed only once at the beginning to initialize loop variables.
+* The `condition` is evaluated before each iteration, and if it is true, the code block is executed. If it is false, the loop terminates.
+* The `iterator` is executed after each iteration and is responsible for updating the loop variables.
+* You can use the loop variables inside the code block to control the iteration or perform specific operations.
 ## ForEach
-the `foreach` loop is used to iterator over elements in an array or any collection that implements `IEnumeral` interface.. it simplifies the process of accessing each element without expilicitly using an index.
-
 ```csharp
 foreach (var item in collection)
 {
     // Code to be executed for each item in the collection
 }
+```
+* The `foreach` loop iterates over each element in the collection and executes the specified code block for each item.
+* It automatically handles the iteration process, eliminating the need for an explicit index or managing the loop control variables.
+* The `var` keyword is used to implicitly type the loop variable `item`, allowing it to adapt to the type of elements in the collection.
+* You can perform any desired operations on each element within the loop block.
