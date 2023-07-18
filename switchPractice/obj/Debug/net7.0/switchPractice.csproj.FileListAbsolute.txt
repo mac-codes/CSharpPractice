@@ -1,0 +1,15 @@
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/obj/Debug/net7.0/switchPractice.csproj.AssemblyReference.cache
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/obj/Debug/net7.0/switchPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/obj/Debug/net7.0/switchPractice.AssemblyInfoInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/obj/Debug/net7.0/switchPractice.AssemblyInfo.cs
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/obj/Debug/net7.0/switchPractice.csproj.CoreCompileInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/bin/Debug/net7.0/switchPractice
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/bin/Debug/net7.0/switchPractice.deps.json
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/bin/Debug/net7.0/switchPractice.runtimeconfig.json
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/bin/Debug/net7.0/switchPractice.dll
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/bin/Debug/net7.0/switchPractice.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/obj/Debug/net7.0/switchPractice.dll
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/obj/Debug/net7.0/refint/switchPractice.dll
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/obj/Debug/net7.0/switchPractice.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/obj/Debug/net7.0/switchPractice.genruntimeconfig.cache
+/Users/mckennalawson/Desktop/CSharpPractice/switchPractice/obj/Debug/net7.0/ref/switchPractice.dll
