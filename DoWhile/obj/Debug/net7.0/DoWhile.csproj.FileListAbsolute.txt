@@ -1,0 +1,15 @@
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/bin/Debug/net7.0/DoWhile
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/bin/Debug/net7.0/DoWhile.deps.json
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/bin/Debug/net7.0/DoWhile.runtimeconfig.json
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/bin/Debug/net7.0/DoWhile.dll
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/bin/Debug/net7.0/DoWhile.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/obj/Debug/net7.0/DoWhile.csproj.AssemblyReference.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/obj/Debug/net7.0/DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/obj/Debug/net7.0/DoWhile.AssemblyInfoInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/obj/Debug/net7.0/DoWhile.AssemblyInfo.cs
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/obj/Debug/net7.0/DoWhile.csproj.CoreCompileInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/obj/Debug/net7.0/DoWhile.dll
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/obj/Debug/net7.0/refint/DoWhile.dll
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/obj/Debug/net7.0/DoWhile.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/obj/Debug/net7.0/DoWhile.genruntimeconfig.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DoWhile/obj/Debug/net7.0/ref/DoWhile.dll

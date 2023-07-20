@@ -1,0 +1,15 @@
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/bin/Debug/net7.0/FizzBuzz
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/bin/Debug/net7.0/FizzBuzz.deps.json
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/bin/Debug/net7.0/FizzBuzz.runtimeconfig.json
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/bin/Debug/net7.0/FizzBuzz.dll
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/bin/Debug/net7.0/FizzBuzz.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/obj/Debug/net7.0/FizzBuzz.csproj.AssemblyReference.cache
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/obj/Debug/net7.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/obj/Debug/net7.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/obj/Debug/net7.0/FizzBuzz.AssemblyInfo.cs
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/obj/Debug/net7.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/obj/Debug/net7.0/FizzBuzz.dll
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/obj/Debug/net7.0/refint/FizzBuzz.dll
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/obj/Debug/net7.0/FizzBuzz.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/obj/Debug/net7.0/FizzBuzz.genruntimeconfig.cache
+/Users/mckennalawson/Desktop/CSharpPractice/FizzBuzz/obj/Debug/net7.0/ref/FizzBuzz.dll

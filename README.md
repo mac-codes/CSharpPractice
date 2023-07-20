@@ -229,6 +229,37 @@ foreach (var item in collection)
 * It automatically handles the iteration process, eliminating the need for an explicit index or managing the loop control variables.
 * The `var` keyword is used to implicitly type the loop variable `item`, allowing it to adapt to the type of elements in the collection.
 * You can perform any desired operations on each element within the loop block.
+# Iteration
+```csharp
+for (int i = 0; i < 10; i++)
+{
+    Console.WriteLine(i);
+}
+```
+## For Iteration
+* The `for` iteration statement allows you to iterate through a block of code a specific number of times.
+* the `for` iteration statement allows you to control every aspect of the iteration mechanics by altering the three conditions inside the parenthesis: The **initializer**, **condition**, and **iterator**.
+* It's common to use the `for` statment when you need to control how you want to iterate through each item in the array.
+* If the code block had only one line of code, you can eliminate the curly braces and white space if you wish.
+### Six parts of a For statement
+
+1. The `for` keyword.
+2. A set of parenthesis that defines the conditions of for iteration. The parentheses contain three distinct parts, separated by the end of statement operator, a semi-colon.
+3. The first part defines and initializes the iterator variable. In this example: `int i = 0`. This section is referred to as the initializer.
+4. The second part defines the completion condition. In this example: `i < 10`. In other words, the runtime will continue to iterate over the code in the code block below the for statement while `i` is less than `10`. When `i` becomes equal to `10`, the runtime stops executing the for statement's code block. The docs refer to this section as the condition.
+5. The third part defines the action to take after each iteration. In this case, after each iteration, `i++` will increment the value of `i` by 1. The docs refer to this section as the iterator.
+6. Finally, the code block. The code block contains the code that will be executed for each iteration. Notice that the value of `i` is referenced inside of the code block. The docs refer to this section as the body.
+
+## Do-While Loops
+The `do-while` and `while` statements are yet another iteration statement that allows you to iterate through a code block and thereby change the flow of execution of the code. 
+```csharp
+do
+{
+    // Code block to be executed repeatedly.
+} while (condition);
+```
+* The flow of execution starts inside of the curly brace. The code executes at least one time, then the **Boolean** expression next to the `while` keyword is executed. if the **Bool** expression return true, the code is executed again
+* the code block of a `do-while` loop while execute at least once. it could iterate a large number of times, and it is inlikley we know ahead of time how many iterations there will be.
 
 ## Code Blocks
 A code block is one or more C# statements that define an execution path. the statements outside of the code block affect when, if, and how often that block of code is executed at run time. 
@@ -265,6 +296,7 @@ switch (variable)
 }
 ```
 * The `switch` statements checks the value of the variable against different cases and executes the code block associated with the matching case.
+    * a single switch section can have multiple case labels.
 * Each case should end in a `break` statement to exit the switch block. Without `break`, the execution with "fall through" to the next case.
 * The `default` case is optional and is executed when none of the cases match the variable. 
 * It's good practice to use a `default` case to handle unexpected or edge cases.
