@@ -1,0 +1,15 @@
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/obj/Debug/net7.0/PerfectPractive.csproj.AssemblyReference.cache
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/obj/Debug/net7.0/PerfectPractive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/obj/Debug/net7.0/PerfectPractive.AssemblyInfoInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/obj/Debug/net7.0/PerfectPractive.AssemblyInfo.cs
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/obj/Debug/net7.0/PerfectPractive.csproj.CoreCompileInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/bin/Debug/net7.0/PerfectPractive
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/bin/Debug/net7.0/PerfectPractive.deps.json
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/bin/Debug/net7.0/PerfectPractive.runtimeconfig.json
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/bin/Debug/net7.0/PerfectPractive.dll
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/bin/Debug/net7.0/PerfectPractive.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/obj/Debug/net7.0/PerfectPractive.dll
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/obj/Debug/net7.0/refint/PerfectPractive.dll
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/obj/Debug/net7.0/PerfectPractive.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/obj/Debug/net7.0/PerfectPractive.genruntimeconfig.cache
+/Users/mckennalawson/Desktop/CSharpPractice/PerfectPractice/obj/Debug/net7.0/ref/PerfectPractive.dll

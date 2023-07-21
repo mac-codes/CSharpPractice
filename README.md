@@ -260,6 +260,7 @@ do
 ```
 * The flow of execution starts inside of the curly brace. The code executes at least one time, then the **Boolean** expression next to the `while` keyword is executed. if the **Bool** expression return true, the code is executed again
 * the code block of a `do-while` loop while execute at least once. it could iterate a large number of times, and it is inlikley we know ahead of time how many iterations there will be.
+* The **continue** key word will transfer control to the end of the code block and the while loop will evaluate.
 
 ## Code Blocks
 A code block is one or more C# statements that define an execution path. the statements outside of the code block affect when, if, and how often that block of code is executed at run time. 
