@@ -1,0 +1,15 @@
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/bin/Debug/net7.0/DOorDOWHILE
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/bin/Debug/net7.0/DOorDOWHILE.deps.json
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/bin/Debug/net7.0/DOorDOWHILE.runtimeconfig.json
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/bin/Debug/net7.0/DOorDOWHILE.dll
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/bin/Debug/net7.0/DOorDOWHILE.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/obj/Debug/net7.0/DOorDOWHILE.csproj.AssemblyReference.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/obj/Debug/net7.0/DOorDOWHILE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/obj/Debug/net7.0/DOorDOWHILE.AssemblyInfoInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/obj/Debug/net7.0/DOorDOWHILE.AssemblyInfo.cs
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/obj/Debug/net7.0/DOorDOWHILE.csproj.CoreCompileInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/obj/Debug/net7.0/DOorDOWHILE.dll
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/obj/Debug/net7.0/refint/DOorDOWHILE.dll
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/obj/Debug/net7.0/DOorDOWHILE.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/obj/Debug/net7.0/DOorDOWHILE.genruntimeconfig.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DOorDOWHILE/obj/Debug/net7.0/ref/DOorDOWHILE.dll

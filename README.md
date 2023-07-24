@@ -229,6 +229,31 @@ foreach (var item in collection)
 * It automatically handles the iteration process, eliminating the need for an explicit index or managing the loop control variables.
 * The `var` keyword is used to implicitly type the loop variable `item`, allowing it to adapt to the type of elements in the collection.
 * You can perform any desired operations on each element within the loop block.
+## Nested Loop
+* The practice of using one loop inside another loop. for each iteration of the outer loop, the inner loops goes through its full cycle.
+```csharp
+for (outerInitialization; outerCondition; outerIteration)
+{
+    // Code or operations to be executed before the inner loop
+
+    for (innerInitialization; innerCondition; innerIteration)
+    {
+        // Code or operations to be executed inside the inner loop
+    }
+
+    // Code or operations to be executed after the inner loop
+}
+```
+* `outerInitialization`: This is where you set the initial value of the variable used in the outer loop.
+*  `outerCondition`: The outer loop will continue running as long as this condition is true. 
+    * if the condition is false before the outerloop is executed, the loop will be skipped entirely.
+* `outerIteration`: After each iteration of the outer loop this part is executed, typically used to update the value of the variable used in the outerloop
+*  `innerInitialization`: Inside the outer loop, this is where you set the initial value of the variable used in the inner loop.
+* `innerCondition`: the inner loop will continue running as long as this condition is true. if the condition evaluated to false, the inner loop will be skipped.
+* `innerIteration`: After each iteration of the inner loop,, this part is executed, typically used to update the variable used in the inner loop.
+
+>The flow of execution is such that the outer loop runs once, then the inner loop runs its full cycle. After that, the outer loop continues with its next iteration, and the inner loop runs again, and so on. This pattern repeats until the outer loop's condition becomes false, at which point the entire nested loop structure terminates.
+
 # Iteration
 ```csharp
 for (int i = 0; i < 10; i++)
@@ -249,7 +274,17 @@ for (int i = 0; i < 10; i++)
 4. The second part defines the completion condition. In this example: `i < 10`. In other words, the runtime will continue to iterate over the code in the code block below the for statement while `i` is less than `10`. When `i` becomes equal to `10`, the runtime stops executing the for statement's code block. The docs refer to this section as the condition.
 5. The third part defines the action to take after each iteration. In this case, after each iteration, `i++` will increment the value of `i` by 1. The docs refer to this section as the iterator.
 6. Finally, the code block. The code block contains the code that will be executed for each iteration. Notice that the value of `i` is referenced inside of the code block. The docs refer to this section as the body.
+## While Loops
+While loops allows a block of code to be executed repeatedly as long as a specific condition remains true. 
+```csharp
+while (condition)
+{
+    // Code to be executed as long as the condition is true
+    // The code here will be repeated in each iteration of the loop
+}
 
+```
+* While loops are particularly useful when you want to repeat an operation an unknown number of times until a certain condition is met. Sice the loop continues to execute as long as the condition is true, you need to ensure that conditions will eventually become false. otherwise its an **indefinite loop**
 ## Do-While Loops
 The `do-while` and `while` statements are yet another iteration statement that allows you to iterate through a code block and thereby change the flow of execution of the code. 
 ```csharp
@@ -268,6 +303,11 @@ A code block is one or more C# statements that define an execution path. the sta
     * The **using** statement applies to all of the code in a code file
 * To make a variable visible inside and outside of a code block, you must define the variable outside of the code block.
 * Do not forget to initialize any variables whose value is set in a code block, such as an `if` statement.
+### Difference between *DO* and *WHILE*
+* `for`: executes it body while a specified Boolean expression evaluates to true.
+* `foreach`: enumerates the elements of a collection and executes its body for each elements of the collection.
+* `do-while`: conditionally  executes its body one or more times.
+* `while`: conditionally executes its body zero or more times.
 
 ## Code Readability
 When implimenting an `if` statement that includes a single-statement code block:
