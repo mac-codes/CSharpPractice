@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZlW1OczCJ521Bj9aDfgLJWbG4F3wR3hDG98cy8Wvj3CdaOUHz0Kk+VTub9x+ua+9j8ek2/xK4gHf125+wetKlg==",
+  "dgSpecHash": "iGgxQXm0xyJzqHb5Am4mnNfQ0BpD7Vo6YdptRszDq7cQRoU7cFRJSkxy4hQ0bEWsoGz/whtIC/sVKVCHqeEYDg==",
   "success": true,
-  "projectFilePath": "/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
+  "projectFilePath": "/Users/mckennalawson/Desktop/CSharpPractice/studentScores/GuidedProject/Starter/Starter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

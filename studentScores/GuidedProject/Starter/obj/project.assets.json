@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
+      "projectUniqueName": "/Users/mckennalawson/Desktop/CSharpPractice/studentScores/GuidedProject/Starter/Starter.csproj",
       "projectName": "Starter",
-      "projectPath": "/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
+      "projectPath": "/Users/mckennalawson/Desktop/CSharpPractice/studentScores/GuidedProject/Starter/Starter.csproj",
       "packagesPath": "/Users/mckennalawson/.nuget/packages/",
-      "outputPath": "/Users/mckennalawson/Desktop/CSharpPractice/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/",
+      "outputPath": "/Users/mckennalawson/Desktop/CSharpPractice/studentScores/GuidedProject/Starter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mckennalawson/.nuget/NuGet/NuGet.Config"
