@@ -1,0 +1,15 @@
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/obj/Debug/net7.0/practice2.csproj.AssemblyReference.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/obj/Debug/net7.0/practice2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/obj/Debug/net7.0/practice2.AssemblyInfoInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/obj/Debug/net7.0/practice2.AssemblyInfo.cs
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/obj/Debug/net7.0/practice2.csproj.CoreCompileInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/bin/Debug/net7.0/practice2
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/bin/Debug/net7.0/practice2.deps.json
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/bin/Debug/net7.0/practice2.runtimeconfig.json
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/bin/Debug/net7.0/practice2.dll
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/bin/Debug/net7.0/practice2.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/obj/Debug/net7.0/practice2.dll
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/obj/Debug/net7.0/refint/practice2.dll
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/obj/Debug/net7.0/practice2.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/obj/Debug/net7.0/practice2.genruntimeconfig.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice2/obj/Debug/net7.0/ref/practice2.dll

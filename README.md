@@ -343,3 +343,9 @@ switch (variable)
 * It's good practice to use a `default` case to handle unexpected or edge cases.
 * Case patterns are boolean expressions that evaluate to either true or false.
 * The `break` keyword tells the runtime to stop evaluating and prevents execution of other cases in the switch construct.
+
+## Review
+* The `for` statement: executes its body while a specified Boolean expressions evaluates to true.
+* The `foreach` statement: enumerates the elements of a collection and executes its body for each elements of the collection
+* The `do-while`statement: conditionally executes its body one or more times.
+* The `while` statements: conditionally executes its body zero or more times 

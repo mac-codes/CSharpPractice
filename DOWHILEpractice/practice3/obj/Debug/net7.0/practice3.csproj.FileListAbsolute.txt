@@ -1,0 +1,15 @@
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/bin/Debug/net7.0/practice3
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/bin/Debug/net7.0/practice3.deps.json
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/bin/Debug/net7.0/practice3.runtimeconfig.json
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/bin/Debug/net7.0/practice3.dll
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/bin/Debug/net7.0/practice3.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/obj/Debug/net7.0/practice3.csproj.AssemblyReference.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/obj/Debug/net7.0/practice3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/obj/Debug/net7.0/practice3.AssemblyInfoInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/obj/Debug/net7.0/practice3.AssemblyInfo.cs
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/obj/Debug/net7.0/practice3.csproj.CoreCompileInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/obj/Debug/net7.0/practice3.dll
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/obj/Debug/net7.0/refint/practice3.dll
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/obj/Debug/net7.0/practice3.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/obj/Debug/net7.0/practice3.genruntimeconfig.cache
+/Users/mckennalawson/Desktop/CSharpPractice/DOWHILEpractice/practice3/obj/Debug/net7.0/ref/practice3.dll
