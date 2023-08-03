@@ -1,0 +1,15 @@
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/obj/Debug/net7.0/3.csproj.AssemblyReference.cache
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/obj/Debug/net7.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/obj/Debug/net7.0/3.AssemblyInfoInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/obj/Debug/net7.0/3.AssemblyInfo.cs
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/obj/Debug/net7.0/3.csproj.CoreCompileInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/bin/Debug/net7.0/3
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/bin/Debug/net7.0/3.deps.json
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/bin/Debug/net7.0/3.runtimeconfig.json
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/bin/Debug/net7.0/3.dll
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/bin/Debug/net7.0/3.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/obj/Debug/net7.0/3.dll
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/obj/Debug/net7.0/refint/3.dll
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/obj/Debug/net7.0/3.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/obj/Debug/net7.0/3.genruntimeconfig.cache
+/Users/mckennalawson/Desktop/CSharpPractice/ForItPractice/3/obj/Debug/net7.0/ref/3.dll

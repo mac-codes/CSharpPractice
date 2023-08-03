@@ -269,11 +269,12 @@ for (int i = 0; i < 10; i++)
 ### Six parts of a For statement
 
 1. The `for` keyword.
-2. A set of parenthesis that defines the conditions of for iteration. The parentheses contain three distinct parts, separated by the end of statement operator, a semi-colon.
-3. The first part defines and initializes the iterator variable. In this example: `int i = 0`. This section is referred to as the initializer.
-4. The second part defines the completion condition. In this example: `i < 10`. In other words, the runtime will continue to iterate over the code in the code block below the for statement while `i` is less than `10`. When `i` becomes equal to `10`, the runtime stops executing the for statement's code block. The docs refer to this section as the condition.
-5. The third part defines the action to take after each iteration. In this case, after each iteration, `i++` will increment the value of `i` by 1. The docs refer to this section as the iterator.
-6. Finally, the code block. The code block contains the code that will be executed for each iteration. Notice that the value of `i` is referenced inside of the code block. The docs refer to this section as the body.
+2. A set of `parenthesis` that defines the conditions of for iteration. The parentheses contain **three distinct parts**, separated by the end of statement operator, a semi-colon.
+3. INITIALIZER:The **first part** defines and initializes the iterator variable. In this example: `int i = 0`.
+4. CONDITION: The **second part** defines the completion condition. In this example: `i < 10`. In other words, the runtime will continue to iterate over the code in the code block below the for statement while `i` is less than `10`. When `i` becomes equal to `10`, the runtime stops executing the for statement's code block. 
+5. ITERATOR: The **third part** defines the action to take after each iteration. In this case, after each iteration, `i++` will increment the value of `i` by 1.
+6. BODY: **Finally**, the code block. The code block contains the code that will be executed for each iteration. Notice that the value of `i` is referenced inside of the code block.
+
 ## While Loops
 While loops allows a block of code to be executed repeatedly as long as a specific condition remains true. 
 ```csharp
@@ -344,8 +345,3 @@ switch (variable)
 * Case patterns are boolean expressions that evaluate to either true or false.
 * The `break` keyword tells the runtime to stop evaluating and prevents execution of other cases in the switch construct.
 
-## Review
-* The `for` statement: executes its body while a specified Boolean expressions evaluates to true.
-* The `foreach` statement: enumerates the elements of a collection and executes its body for each elements of the collection
-* The `do-while`statement: conditionally executes its body one or more times.
-* The `while` statements: conditionally executes its body zero or more times 
