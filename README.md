@@ -4,16 +4,19 @@ The primary job of the compiler is to convert code into an executable format tha
 ## Variables
 To declare a variable, first select a data type and then give it a name. Example: `int number = 7;`
 
-Variable Data Types:
+### Variable Data Types and Nullable Types:
 * `STRING`: for words, phrases, or any alphanumeric data for presentation (not data)
 * `CHAR`: for a single alphanumeric character
 * `INT`: for a whole number
 * `DECIMAL`: for a number with a fractional component (one number has to be a decimal for a decimal output)
 * `BOOL`: for a true/false value
+* `VAR`: This keyword tells the compiler to infer the data type of the variable based on the value it is initialized to. Use data types when possible.
+* `NULLABLE TYPES`: Used when you need to reprsent a value that is regular or special value. add a **?** symbol after the data type. best to use when reading user entered values.
+```csharp
+int? nullableNumber = null;
+```
 
 To retrieve a variable, you just have to call the variable name.
-
-* `VAR`: This keyword tells the compiler to infer the data type of the variable based on the value it is initialized to. Use data types when possible.
 
 ### Variable Name Rules
 * variable names can contain alphanumeric characters and the underscore character
@@ -344,4 +347,5 @@ switch (variable)
 * It's good practice to use a `default` case to handle unexpected or edge cases.
 * Case patterns are boolean expressions that evaluate to either true or false.
 * The `break` keyword tells the runtime to stop evaluating and prevents execution of other cases in the switch construct.
+
 
