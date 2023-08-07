@@ -110,7 +110,10 @@ switch(menuSelection)
 {
     case "1":
     // list all of our current pet information
-        Console.WriteLine("this app feature is coming soon - please check back to see progress.");
+    for (int i = 0; i < maxPets; i++)
+    {
+
+    }
         Console.WriteLine("Press the Enter key to continue.");
         readResult = Console.ReadLine();
         break;
