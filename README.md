@@ -320,13 +320,42 @@ do
 * The flow of execution starts inside of the curly brace. The code executes at least one time, then the **Boolean** expression next to the `while` keyword is executed. if the **Bool** expression return true, the code is executed again
 * the code block of a `do-while` loop while execute at least once. it could iterate a large number of times, and it is inlikley we know ahead of time how many iterations there will be.
 * The **continue** key word will transfer control to the end of the code block and the while loop will evaluate.
+## Scope
+* Scope defines the visibility and accessibility of variables and code blocks in a program.
+* variables declared within a code block are typically only accessible within that block.
+* Variables declared outside of the block have broader visibility
+#### Local Scope
+* variables declared *within a code block* have local scope
+* They are accessible only within that block and its nested blocks.
+#### Global Scope
+* Variables declared outside of any code block have a global scope.
+* They are accessible anywhere in the program.
+#### Variable Visibility
+* The visibility of a variable depends on its scope
+* Local variables prioritize their own blocks scope.
+#### Using Statements
+* The `using` statement can apply to an entire code file.
+* its an exception to the local scope rule.
+#### Variable Initialization
+* Variables set within a code blovk should be initialized within that block
+*initializing variables ensures valid values a present before usage.
+#### Controlling Scope
+* Defining variables outside of specific blocks increases their scope
+* Scope control is cruicial for managing variables visibiliy and lifetime
+#### Scope Hierarchy
+* Nested blocks inherit variables from their containing blocks
+* Outer blocks can't access variables from their nested blocks
+#### Initialization
+* initialize variables before using them to avoid potential errors
+* Uninitialized variables can lead to unexpected behavior due to scope. 
+#### Best Practices
+* Keep variable scope as narrow as possible for better code organization
+* Limit global scope to avoid inintended side effects
 
 ## Code Blocks
 A code block is one or more C# statements that define an execution path. the statements outside of the code block affect when, if, and how often that block of code is executed at run time. 
-* **Scope**: when you define a varibale inside of a code block, its visibility is local to that code block and inaccesible outside of the code block
-    * The **using** statement applies to all of the code in a code file
-* To make a variable visible inside and outside of a code block, you must define the variable outside of the code block.
-* Do not forget to initialize any variables whose value is set in a code block, such as an `if` statement.
+
+
 ### Difference between *DO* and *WHILE*
 * `for`: executes it body while a specified Boolean expression evaluates to true.
 * `foreach`: enumerates the elements of a collection and executes its body for each elements of the collection.
