@@ -1,6 +1,68 @@
 # C# Basics
 The primary job of the compiler is to convert code into an executable format that the computer can understand.
+## Object Oriented Programming
+The four basic principles of OOP are:
+ * *Abstraction*: Modeling the relevent attributes and interactions of entities as classes to define an abstract representation of a system.
+ * *Encapsulation*: Hiding  the internal state and functionallity of an object and only allowing access through a public set of functions
+* *Inheritance*: Ability to create new abstractions based on existing abstractions.
+* *Polymorphism*: Ability to implement inherited properties or methods in different way across multiple abstractions
+### Classes
+A class is a blueprint or template that defines the structure and behavior of objects. it encapsulates both the attributes (properties) and the behavio (methods) that objects of that class with possess. Classses provide a consistent way to create objects with a ccommon set of attributes and behaviors
+```csharp
+// class: car
+public class Car
+{
+    public string Color { get; set; }
+    public string Make { get; set; }
+    public string Model { get; set; }
+}
+// class: motorcycle
+public class Motorcycle
+{
+    public string Color { get; set; }
+    public string Make { get; set; }
+    public string Model { get; set; }
+}
+```
+### Objects
+An object is a concrete instance created from a class, embodying the attributes and behaviors defined by that class. Objects are the **building blocks** of OOP, representing real world entities, or data structures withing the program.
+```csharp
+car myCar = new Car();
+Motorcycle MyMoto = new Motorcycle();
+```
+### Properties
+Also known as `*attributes*` or `*fields*`, are data memebers of a class that store information about the objects state. Each object created from a class has its own set of property values. Properties define the characteristics that distinguish one objects from another.
+```csharp
+// Class: Vehicle
+public class Vehicle
+{
+    // Properties
+    public string Type { get; set; }   // Car, Motorcycle, etc.
+    public string Make { get; set; }
+    public string Model { get; set; }
+    public int Year { get; set; }
+}
+```
+### Methods
+Methods are `*functions*` defined within a class that enables objects to perform actions of exhibit behaviors. They represent the operations that objects of the class can carry out. Meethods encapsulate the logic associated with an objects behavior and allow controlled access to the objects internal state.
+```csharp
+public class Car
+{
+    public string Color { get; set; }
+    public string Make { get; set; }
+    public string Model { get; set; }
 
+    public void StartEngine()
+    {
+        Console.WriteLine("Car engine started.");
+    }
+
+    public void StopEngine()
+    {
+        Console.WriteLine("Car engine stopped.");
+    }
+}
+```
 ## Variables
 To declare a variable, first select a data type and then give it a name. Example: `int number = 7;`
 
