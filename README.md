@@ -88,22 +88,51 @@ To retrieve a variable, you just have to call the variable name.
 * Names are case sensitive `string myValue` and `string MyVaule` are different things.
 * use **camelCase** for variable names.
 
-## Literal Strings
-Use character escape sequences when you need to insert a special character into a  literal string, such as:
+## Expressions
+an expression is any combination of values, variables, operators, and function calls that can be evaluated to profuce a single value. Expressions are the building blocks of code logic and are used to perform computations, make decisions, and manipulate data. Understanding expressions, make decisions, and manipulate data. Understanding expressions is fundamental to writing effective and meaningful programs. 
 
-* TAB: `\t`
-* NEW LINE: `\n`
-* DOUBLE QUOTES: `\"`
-* BACKSLASH: `\\`
-* UNICODE: `\u` (may not print correctly depending on the application)
-The `@` directive creates a verbatim string literal that keeps all whitespace formatting and backslash characters in the string.
-
-## Math Operations
+> Expressions are essential for:
+>* performing calucations and mathmatical operations. 
+>* Evaluating conditions to make decisions using control structures (if statements, loops)
+>* Manipulating and transforming data
+>* Communicating with the computer through user input and output.
+### Operators: Arithmatic, Comparison, Logical etc.
+Operators are symbols or keywords used to perform operations on one or more operands (variables, values, expressions).
+>**Math Operations**
 * `+`: addition
 * `-`: subtraction
 * `*`: multiplication
 * `/`: division (use decimal assignment variable when dividing)
 * `%`: remainder of division
+>**Compound Assignment Operators**
+* `+=`: increment
+* `-=`: decrement
+* `*=`: multiplication
+* `++`: increment by 1
+* `--`: decrement by 1
+>**Comparison Operators**
+* `==`: equal to
+* `!=`: NOT equal to
+* `<`: less than
+* `>`: greater than
+* `<=`: less than or equal to
+* `>=`: Greater than or equal to
+
+### Operator Procedence and Associativity
+Operator precedence defines the order in which operators are evaluated when an expression contains multiple operators. Some operators have *higher* precedence than others, and they are evaluated first.
+
+* `Assocativity` determines the order in which operators of the same precedence are evaluated. Operators can be left- associative (evaluated from left) or right-associative.
+* You can use *Parenthesis* to control the order of evaluation.
+```csharp
+int result = 10 + 5 * 2
+```
+1. Evaluate `5 * 2` which is `10`
+2. add `10` to `10` which is `20`
+```csharp
+int result = (10 + 5) * 2
+```
+1. Evaluate `10 + 5` which is `15`
+2. multiply `15` to `2` which is `30`
 
 ## Order of Operations
 Remember the acronym PEMDAS:
@@ -114,16 +143,19 @@ Remember the acronym PEMDAS:
 * Addition and Subtraction
 Note: There is no exponent operator. Use `System.Math.Pow` for exponents.
 
-## Compound Assignment Operators
-* `+=`: increment
-* `-=`: decrement
-* `*=`: multiplication
-* `++`: increment by 1
-* `--`: decrement by 1
+## Literal Strings
+Use character escape sequences when you need to insert a special character into a  literal string, such as:
+
+* TAB: `\t`
+* NEW LINE: `\n`
+* DOUBLE QUOTES: `\"`
+* BACKSLASH: `\\`
+* UNICODE: `\u` (may not print correctly depending on the application)
+The `@` directive creates a verbatim string literal that keeps all whitespace formatting and backslash characters in the string.
+## Code readability and best practices
 
 
 ## Execution Environment
-
 When using the terminal in Visual Studio Code:
 
 * Click on the `.csproj` file
@@ -386,37 +418,37 @@ do
 * Scope defines the visibility and accessibility of variables and code blocks in a program.
 * variables declared within a code block are typically only accessible within that block.
 * Variables declared outside of the block have broader visibility
-#### Local Scope
+### Local Scope
 * variables declared *within a code block* have local scope
 * They are accessible only within that block and its nested blocks.
-#### Global Scope
+### Global Scope
 * Variables declared outside of any code block have a global scope.
 * They are accessible anywhere in the program.
-#### Variable Visibility
+### Variable Visibility
 * The visibility of a variable depends on its scope
 * Local variables prioritize their own blocks scope.
-#### Using Statements
+### Using Statements
 * The `using` statement can apply to an entire code file.
 * its an exception to the local scope rule.
-#### Variable Initialization
+### Variable Initialization
 * Variables set within a code blovk should be initialized within that block
 *initializing variables ensures valid values a present before usage.
-#### Controlling Scope
+### Controlling Scope
 * Defining variables outside of specific blocks increases their scope
 * Scope control is cruicial for managing variables visibiliy and lifetime
-#### Scope Hierarchy
+### Scope Hierarchy
 * Nested blocks inherit variables from their containing blocks
 * Outer blocks can't access variables from their nested blocks
-#### Initialization
+### Initialization
 * initialize variables before using them to avoid potential errors
 * Uninitialized variables can lead to unexpected behavior due to scope. 
-#### Best Practices
+### Best Practices
 * Keep variable scope as narrow as possible for better code organization
 * Limit global scope to avoid inintended side effects
 
+
 ## Code Blocks
 A code block is one or more C# statements that define an execution path. the statements outside of the code block affect when, if, and how often that block of code is executed at run time. 
-
 
 ### Difference between *DO* and *WHILE*
 * `for`: executes it body while a specified Boolean expression evaluates to true.
@@ -438,17 +470,15 @@ Best used when:
 * You have a single value that you want to match against many possible values.
 * For any given match, you need to execute a couple of lines of code at most.
 ```csharp
-switch (variable)
+switch (input)
 {
-    case value1:
-        // code to be executed when variable equals value1
+    case "hello":
+        Console.WriteLine("You entered `hello`");
         break;
-    case value2:
-        //code to be executed when variable equals value2
+    case "world":
+        Console.WriteLine("You entered `world");
         break;
-    default:
-        // code to be executed when none of the cases match the variable
-        break;
+    case var when (input.Length > 5):
 }
 ```
 * The `switch` statements checks the value of the variable against different cases and executes the code block associated with the matching case.
