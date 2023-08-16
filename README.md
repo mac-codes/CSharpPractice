@@ -1,12 +1,16 @@
 # C# Basics
 The primary job of the compiler is to convert code into an executable format that the computer can understand.
+
+## The Compiler
+The primary job of the compiler is to convert code into an executable format that the computer can understand.
+
 ## Object Oriented Programming
 The four basic principles of OOP are:
  * *Abstraction*: Modeling the relevent attributes and interactions of entities as classes to define an abstract representation of a system.
  * *Encapsulation*: Hiding  the internal state and functionallity of an object and only allowing access through a public set of functions
 * *Inheritance*: Ability to create new abstractions based on existing abstractions.
 * *Polymorphism*: Ability to implement inherited properties or methods in different way across multiple abstractions
-### Classes
+## Classes
 A class is a blueprint or template that defines the structure and behavior of objects. it encapsulates both the attributes (properties) and the behavio (methods) that objects of that class with possess. Classses provide a consistent way to create objects with a ccommon set of attributes and behaviors
 ```csharp
 // class: car
@@ -80,44 +84,14 @@ int? nullableNumber = null;
 
 To retrieve a variable, you just have to call the variable name.
 
-### Variable Name Rules
-* variable names can contain alphanumeric characters and the underscore character
-    * `#`, `-`, `$` ,and other special characters not allowed
-* Must begin with an alphanumeric letter or an underscore
-* Must NOT be a C# keyword
-* Names are case sensitive `string myValue` and `string MyVaule` are different things.
-* use **camelCase** for variable names.
+## Expessions and Operators
+An expression is any combination of values, variables, operators, and function calls that can be evaluated to produce a single value. Expressions are fundemental to performing calculations, making decisions, manipulating data, and communicating with computers through user input and output.
 
-## Expressions
-an expression is any combination of values, variables, operators, and function calls that can be evaluated to profuce a single value. Expressions are the building blocks of code logic and are used to perform computations, make decisions, and manipulate data. Understanding expressions, make decisions, and manipulate data. Understanding expressions is fundamental to writing effective and meaningful programs. 
-
-> Expressions are essential for:
->* performing calucations and mathmatical operations. 
->* Evaluating conditions to make decisions using control structures (if statements, loops)
->* Manipulating and transforming data
->* Communicating with the computer through user input and output.
-### Operators: Arithmatic, Comparison, Logical etc.
-Operators are symbols or keywords used to perform operations on one or more operands (variables, values, expressions).
->**Math Operations**
-* `+`: addition
-* `-`: subtraction
-* `*`: multiplication
-* `/`: division (use decimal assignment variable when dividing)
-* `%`: remainder of division
->**Compound Assignment Operators**
-* `+=`: increment
-* `-=`: decrement
-* `*=`: multiplication
-* `++`: increment by 1
-* `--`: decrement by 1
->**Comparison Operators**
-* `==`: equal to
-* `!=`: NOT equal to
-* `<`: less than
-* `>`: greater than
-* `<=`: less than or equal to
-* `>=`: Greater than or equal to
-
+### Operators
+Operators are symbols or keywords used to perform operations on one or more operands (variables, values, expressions)
+* **Math Operations**: `+`, `-`,`*`,`.`,`%`
+* **Compound Assignment Operators**: `+=`,`-+`,`*=`,`++`,`--`
+* **Comparison Operators**: `<=`, `>=`, `<`, `>`
 ### Operator Procedence and Associativity
 Operator precedence defines the order in which operators are evaluated when an expression contains multiple operators. Some operators have *higher* precedence than others, and they are evaluated first.
 
@@ -143,7 +117,7 @@ Remember the acronym PEMDAS:
 * Addition and Subtraction
 Note: There is no exponent operator. Use `System.Math.Pow` for exponents.
 
-## Literal Strings
+## Literal Strings & Escape sequences
 Use character escape sequences when you need to insert a special character into a  literal string, such as:
 
 * TAB: `\t`
@@ -152,8 +126,6 @@ Use character escape sequences when you need to insert a special character into 
 * BACKSLASH: `\\`
 * UNICODE: `\u` (may not print correctly depending on the application)
 The `@` directive creates a verbatim string literal that keeps all whitespace formatting and backslash characters in the string.
-## Code readability and best practices
-
 
 ## Execution Environment
 When using the terminal in Visual Studio Code:
@@ -163,6 +135,52 @@ When using the terminal in Visual Studio Code:
 
 ## State Definition
 As your code executes line by line, values are stored in variables. At any moment during execution, the current state of the application is the collection of all values stored in memory.
+
+### Variable Name Rules
+* variable names can contain alphanumeric characters and the underscore character
+    * `#`, `-`, `$` ,and other special characters not allowed
+* Must begin with an alphanumeric letter or an underscore
+* Must NOT be a C# keyword
+* Names are case sensitive `string myValue` and `string MyVaule` are different things.
+* use **camelCase** for variable names.
+
+## Evaluating Expressions  (BOOLEAN)
+* There are many different types of expressions that evaluate to either `true` or `false`.
+* Evaluate equality using the `==` operator.
+* Evaluate inequality using `!=` operator
+* strings may have different case. or leading/trailing spaces. use the `ToLower()`, `ToUpper()` and `Trim` helper methods to improve the likelyhood that they are equal. 
+* Use comparison operators.
+* If a method returns a **Bool*, it can be used as a boolean expression
+
+### Logical Negation
+Logical negation is a fundemental  concept in programming that involves inverting the truth value of a boolean expression. in other words it changes `true` to `false` and the other way around.
+
+#### `!` (NOT) Operator
+the `!` (not) operator is used to perform logical negation on a boolean expression. it evaluated the expression and returns the opposite boolean value.
+```csharp
+bool isTrue = true;
+bool isFalse = false;
+
+bool negatedTrue = !isTrue; // Evaluates to false
+bool negatedFalse = !isFalse; // Evaluates to true
+```
+### De Morgan's Laws
+#### De Morgan's Laws for  *AND* Operator:
+1. Negation of an ***AND*** is the same as the ***OR*** of negations:
+    `!(A && B)` is equivelant to `!A || !B`.
+#### De Morgan's Laws for  *OR* Operator:
+2. Negation of an ***OR*** is the same as the ***AND*** negations:
+    `!(A || B)` is equivelant to `!A && !B`.
+
+### Condional Operator
+use the conditional operator when you need to return a value thats based on a binary condition. Your code with return the first option when the condition evaluates to true, and the second option when the coditon is true. 
+```csharp
+int saleAmount = 1001;
+int discount = saleAmount > 1000 ? 100 : 50;
+Console.WriteLine($"Discount: {discount}");
+```
+## Functions and Methods
+
 # Functions
 Functions and methods are essential components of C# programming, allowing you to break down complex tasks into smaller, reusable units of code.
 
@@ -195,6 +213,10 @@ int Add(int num1, int num2)
     return sum;
 }
 ```
+
+## Overloaded Method
+An overloaded method is defined with multiple method signatures.
+
 # Methods
 in C#, methods are functions that belong to a class or object. They define the behavior of objects and allow you to perform actions related to the class.
 
@@ -247,9 +269,6 @@ public class Calculator
     }
 }
 ```
-## Overloaded Method
-An overloaded method is defined with multiple method signatures.
-
 ## The NEW Operator
 The `NEW` operator requests an area big enough in the computer to store a random object. It creates that new object in memory and then returns the memory address so it can be stored in the new object.
 
@@ -458,6 +477,9 @@ A code block is one or more C# statements that define an execution path. the sta
 
 ## Code Readability
 When implimenting an `if` statement that includes a single-statement code block:
+* Always use meaningful variable and function names
+* properly indent code
+* Break down complex operations into smaller well names functions or methods.
 * Never use single-line form
 * If you realize you have only one line of code listed within the code blocks of an **if-elseif-else** statement, you can remove the curly braces of the code block and white space. 
 * Only remove the curly braces of a code block when it makes the code more readable. It's always acceptable to include curly braces.

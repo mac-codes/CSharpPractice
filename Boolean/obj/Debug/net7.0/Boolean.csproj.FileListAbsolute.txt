@@ -1,0 +1,15 @@
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/obj/Debug/net7.0/Boolean.csproj.AssemblyReference.cache
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/obj/Debug/net7.0/Boolean.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/obj/Debug/net7.0/Boolean.AssemblyInfoInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/obj/Debug/net7.0/Boolean.AssemblyInfo.cs
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/obj/Debug/net7.0/Boolean.csproj.CoreCompileInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/bin/Debug/net7.0/Boolean
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/bin/Debug/net7.0/Boolean.deps.json
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/bin/Debug/net7.0/Boolean.runtimeconfig.json
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/bin/Debug/net7.0/Boolean.dll
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/bin/Debug/net7.0/Boolean.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/obj/Debug/net7.0/Boolean.dll
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/obj/Debug/net7.0/refint/Boolean.dll
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/obj/Debug/net7.0/Boolean.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/obj/Debug/net7.0/Boolean.genruntimeconfig.cache
+/Users/mckennalawson/Desktop/CSharpPractice/Boolean/obj/Debug/net7.0/ref/Boolean.dll
