@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mckennalawson/Desktop/CSharpPractice/Boolean/conditionalOperators/conditionalOperators.csproj": {}
+    "/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/conditionalOperators.csproj": {}
   },
   "projects": {
-    "/Users/mckennalawson/Desktop/CSharpPractice/Boolean/conditionalOperators/conditionalOperators.csproj": {
+    "/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/conditionalOperators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mckennalawson/Desktop/CSharpPractice/Boolean/conditionalOperators/conditionalOperators.csproj",
+        "projectUniqueName": "/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/conditionalOperators.csproj",
         "projectName": "conditionalOperators",
-        "projectPath": "/Users/mckennalawson/Desktop/CSharpPractice/Boolean/conditionalOperators/conditionalOperators.csproj",
+        "projectPath": "/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/conditionalOperators.csproj",
         "packagesPath": "/Users/mckennalawson/.nuget/packages/",
-        "outputPath": "/Users/mckennalawson/Desktop/CSharpPractice/Boolean/conditionalOperators/obj/",
+        "outputPath": "/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mckennalawson/.nuget/NuGet/NuGet.Config"

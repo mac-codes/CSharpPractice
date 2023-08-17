@@ -269,6 +269,7 @@ public class Calculator
     }
 }
 ```
+
 ## The NEW Operator
 The `NEW` operator requests an area big enough in the computer to store a random object. It creates that new object in memory and then returns the memory address so it can be stored in the new object.
 

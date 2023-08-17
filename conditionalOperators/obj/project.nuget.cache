@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OF1TDrtKafmhoWgcfD4jxnKo7VEoSKDG+9yq3hbcWyf+8wKxD9z4S/DkVGMVXL2oZGjE3URGr8p6UXNXBWUX2w==",
+  "dgSpecHash": "lEfZiJHz+L9a655VGlRCcmTgmSfq5WM27xmicfbHUQ+tF2Q9x84y88EmgejdFxIqMWU3e0GrbRjLzQ4vkH2iqw==",
   "success": true,
-  "projectFilePath": "/Users/mckennalawson/Desktop/CSharpPractice/Boolean/conditionalOperators/conditionalOperators.csproj",
+  "projectFilePath": "/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/conditionalOperators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

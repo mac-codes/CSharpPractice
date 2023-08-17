@@ -1,0 +1,15 @@
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/obj/Debug/net7.0/conditionalOperators.csproj.AssemblyReference.cache
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/obj/Debug/net7.0/conditionalOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/obj/Debug/net7.0/conditionalOperators.AssemblyInfoInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/obj/Debug/net7.0/conditionalOperators.AssemblyInfo.cs
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/obj/Debug/net7.0/conditionalOperators.csproj.CoreCompileInputs.cache
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/bin/Debug/net7.0/conditionalOperators
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/bin/Debug/net7.0/conditionalOperators.deps.json
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/bin/Debug/net7.0/conditionalOperators.runtimeconfig.json
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/bin/Debug/net7.0/conditionalOperators.dll
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/bin/Debug/net7.0/conditionalOperators.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/obj/Debug/net7.0/conditionalOperators.dll
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/obj/Debug/net7.0/refint/conditionalOperators.dll
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/obj/Debug/net7.0/conditionalOperators.pdb
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/obj/Debug/net7.0/conditionalOperators.genruntimeconfig.cache
+/Users/mckennalawson/Desktop/CSharpPractice/conditionalOperators/obj/Debug/net7.0/ref/conditionalOperators.dll
