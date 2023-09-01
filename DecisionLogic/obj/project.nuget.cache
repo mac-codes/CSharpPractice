@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Bt8MzIK/rYHgXH327kSXw6ugFKPzrcVMWTFOzdXW0/bYx5l9e2VWyaM8+l978teAtd1QEARSyAniZoj7b6Shw==",
+  "dgSpecHash": "zNOECRf0W9uIltA4bTxWRHhmhCLS+5rEKuYR/GM3MC6Mv7mfNa1Jz4uRVV1TZHPQhBsd3LWds66YB5ELL5umKg==",
   "success": true,
-  "projectFilePath": "/Users/mckennalawson/Desktop/CsharpProjects/DecisionLogic/TestProject.csproj",
+  "projectFilePath": "/Users/mckennalawson/Desktop/CSharpPractice/DecisionLogic/TestProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

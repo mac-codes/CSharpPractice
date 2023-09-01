@@ -512,4 +512,31 @@ switch (input)
 * Case patterns are boolean expressions that evaluate to either true or false.
 * The `break` keyword tells the runtime to stop evaluating and prevents execution of other cases in the switch construct.
 
+# Basic HTML
+Hypertext Markup Language is the foundation of web development. It structures content on the web.
+### Head
+The `<head>` section of an HTML document contains meta-information and resources that aren't directly displayed in the browser window. meant to provide data about the documents and intructions to browsers and search engines
+#### Meta Tags
+Meta Tags within the `<head>` section provide metadata about the HTML document. this metadata includes information life the character encoding, author, description, and keywords.
+#### Linking external resourcs
+in the `<head>` section, you can link external resources such as CSS files and scripts. Enhancing presentation and functionality of the web page. the `<link>` tag is used to CSS and `<script>` tag is used for scripts.
+### Metadata
+metadata in the context of HTML refers to data that provides information about the document itself. Including details like authors name, creation data, and character encoding. important for SEO and accesibility.
+### title
+The `<title>` element, placed within the `<head>` section, is used to define the title of the HTML document. Displayed on the top of the browser window or tab when the webpage is loaded. utilized in search enginesas the main title.
+### Semantic HTML
+these elements go beyond basic formatting and provide context to both the browser and developers.
+1. `<header>`: introdcutory content of a webpage or a section. it often includes the logo, site title and navigation.
+2. `<nav>`: defines a section of navigation links. placing your navigation menu itesm within a nav element helps readers identify and differentiate navigation. and the search engine recognized these links as important site structures.
+3. `<main>`: Encapsulates the primary content of the webpage. usually the central area the holds the most important content. 
+4. `<article>`: used to mark a standalone piece of content that can be used to distrubute and reused independently.
+5. `<section>`: represents a thematic grouping of content. Help organize the content into logical blocks. You can also you the `<article>` element.
+6. `<footer>`: Typically contains info about the author, copyright, contact info, and links to related pages.
+7. `<aside>`: Used to mark content that is tangentially related to the main content. It can include sidebars, advertisements, or  other content that supports the primarty content.
+### Accesibility and SEO Benfits
+* **Accessibility**: Screen readers and other assitstive technologies rely on semantic elements to provide accurate and meaningful information to users with disaplities By using these elements correctly, you improve the overall accessibility of the website.
+* **SEO**: Search engines use semantic elements to better understand the structure and hierarchy of the content. Properly structured content can improve the websites search engine ranking and visibility.
+* **Maintainability**: Semantic HTML enhances readability and maintainabillity of the code. using elements to convety meaning makes it easier for other developers to understand the purpose of different sections.
 
+# Basic CSS
+###
