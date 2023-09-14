@@ -1,6 +1,6 @@
 # C# Basics
 The primary job of the compiler is to convert code into an executable format that the computer can understand.
-
+> `dotnet new console` makes a basic C# application in VS code.
 ## The Compiler
 The primary job of the compiler is to convert code into an executable format that the computer can understand.
 
